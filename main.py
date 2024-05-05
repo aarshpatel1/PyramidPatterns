@@ -69,7 +69,7 @@
 #     else:
 #         print("")
 
-# pattern 2
+# pattern 6
 #     *
 #    * *
 #   * * *
