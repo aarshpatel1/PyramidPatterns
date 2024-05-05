@@ -43,18 +43,31 @@
 #         print("")
 
 # pattern 4
+# *****
+# ****
+# ***
+# **
+# *
+# for i in range(5, 0, -1):
+#     for j in range(i):
+#         print("*", end='')
+#     else:
+#         print("")
 
-
-
-
-
-
-
-
-
-
-
-
+# pattern 5
+# *****
+#  ****
+#   ***
+#    **
+#     *
+# for i in range(5, 0, -1):
+#     for k in range(5):
+#         if i < k + 1:
+#             print(" ", end='')
+#     for j in range(i):
+#         print("*", end='')
+#     else:
+#         print("")
 
 # pattern 2
 #     *
